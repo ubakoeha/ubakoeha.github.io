@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ubakoeha.github.io/DJu/sitemap_index.txt
+Sitemap: https://ubakoeha.github.io/ERV/sitemap_index.txt
+Sitemap: https://ubakoeha.github.io/HaX/sitemap_index.txt
+Sitemap: https://ubakoeha.github.io/SMp/sitemap_index.txt
